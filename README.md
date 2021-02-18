@@ -1,4 +1,5 @@
 # Trojan Installer
+![](https://img.shields.io/badge/license-GPL-brightgreen.svg)  
 **trojan-quickstart.sh**: A simple installation script for trojan server. Server works on `linux-amd64` machines.
 
 **trojan-centos7.sh**: Onekey installation script for trojan server. Server works on `centos7`.
